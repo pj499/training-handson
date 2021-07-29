@@ -1,0 +1,11 @@
+a:visited{
+    color:blue;
+}
+
+a{
+text-decoration: none;
+}
+
+.active-link{
+    border-bottom: Solid 1px blue;
+}

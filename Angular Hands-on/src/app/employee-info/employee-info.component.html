@@ -1,0 +1,5 @@
+<div id="outer_div">
+    <span style="font-size: 25px;">{{employee.name}}</span><br>
+    <span>{{employee.salary|currency:'INR'}}</span><br>
+    <a [routerLink]="['/edit-emp-reactive',employee.id]">Edit</a>
+</div>

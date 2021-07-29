@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color:darkgoldenrod;
+}
+
+li{
+    list-style-type: decimal;
+}
+
+div{
+    border: dotted 1px yellowgreen;
+    width: 30%;
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+}
+
+img{
+    height: 120px;
+    width: 120px;
+    float: right;
+}
